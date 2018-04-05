@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_36620_innovate.innovate_user" name="x_36620_innovate.innovate_user">1c1275f04f151300d8788deba310c77d</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-03 17:57:18</sys_created_on>
+        <sys_id>1812b5744f151300d8788deba310c7d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1c1275f04f151300d8788deba310c77d</sys_name>
+        <sys_package display_value="Innovate" source="x_36620_innovate">836ea13c4f111300d8788deba310c778</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">836ea13c4f111300d8788deba310c778</sys_scope>
+        <sys_update_name>sys_embedded_help_role_1812b5744f151300d8788deba310c7d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-03 17:57:18</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
